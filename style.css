@@ -1,0 +1,15 @@
+* {
+    background: red;
+}
+
+p {
+    background: yellowgreen;
+}
+
+.product_description {
+    background: pink;
+}
+
+#mensaje1 {
+    color: orange;
+}
